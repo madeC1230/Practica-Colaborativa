@@ -6,3 +6,5 @@ práctica colaborativa de GitHub.
 
 Se agregó información para comprobar los cambios
 realizados en el proyecto.
+
+cambiios estoy cansada
